@@ -1,0 +1,20 @@
+{
+  "name": "aula-ts-02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/ex02.js",
+  "scripts": {
+    "start": "node dist/ex02.js",
+    "dev" : "nodemon src/ex02.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "ts-node": "^10.9.1"
+  }
+}
